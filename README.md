@@ -3,8 +3,7 @@ This project encompasses the remaining of semester's assignment, which I intend 
 
 # Media Database
 
-Media Database is a Java project designed to help users organize and manage their media collections. The purpose of the project is to provide an easy-to-use platform where users can add, edit, and search for different types of media, including movies, TV shows, and music.
-Features
+Media Database is a Java project designed to help users organize and manage their media collections. The purpose of the project is to provide an easy-to-use platform where users can add, edit, and search for different types of media, including movies,and music.
 
 # features
 - Add Entry: Users can easily add new media to the database by providing details such as title, director, cast, release date, synopsis, and ratings.
